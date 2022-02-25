@@ -2,4 +2,4 @@
 
 - Teenager
 - Twitch Affiliate
-- Code in PY
+- Code Discord Bots in PY
